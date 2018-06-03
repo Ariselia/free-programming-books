@@ -14,6 +14,7 @@
 * [HTML / CSS](#html--css)
 * [Java](#java)
 * [Javascript](#javascript)
+  * [Angular.js](#angularjs)
 * [Language Agnostic](#language-agnostic)
 * [Lisp](#lisp)
 * [MATLAB](#matlab)
@@ -32,6 +33,7 @@
 
 ### Bash
 
+* [Help messages will explain everything](https://explainshell.com)
 * [Learn Shell Programming](http://www.learnshell.org)
 
 
@@ -52,7 +54,7 @@
 
 ### Clojure
 
-* [4Clojure - Koans](https://www.4clojure.com)
+* [4Clojure - Koans](http://www.4clojure.com)
 * [Clojure Koans](http://clojurekoans.com)
 * [ClojureScript Koans](http://clojurescriptkoans.com)
 * [Try Clojure](http://www.tryclj.com)
@@ -105,7 +107,6 @@
 ### Java
 
 * [CodingBat code practice](http://codingbat.com/java)
-* [Java at Codecademy](https://www.codecademy.com/courses/learn-java)
 * [Learn Java](http://www.learnjavaonline.org)
 * [Learneroo Java tutorial](https://www.learneroo.com/modules/11)
 
@@ -117,12 +118,19 @@
 * [ES6 Interactive Guide](http://stack.formidable.com/es6-interactive-guide/#/)
 * [Functional Programming in Javascript](https://github.com/ReactiveX/learnrx)
 * [Javascript interactive tutorial on CodeCademy](https://www.codecademy.com/learn/javascript)
-* [Javascript interactive tutorial on CoderMania](http://www.codermania.com/javascript/lesson/1a/hello-world)
 * [Javascripting](https://github.com/sethvincent/javascripting)
 * [Learn JavaScript](http://www.learn-js.org)
 * [Learn knockout.js](http://learn.knockoutjs.com)
 * [Learning Advanced JavaScript](http://ejohn.org/apps/learn/)
 * [Try jQuery](http://try.jquery.com)
+
+
+#### Angular.js
+
+* [Angular Basics](http://www.angularjsbook.com)
+* [AngularJS - Step by Logical Step](http://nicholasjohnson.com/angular-book/)
+* [egghead.io: Learn AngularJS with Tutorial Videos & Training](https://egghead.io)
+* [Learn AngularJS with free interactive lessons](http://www.learn-angular.org)
 
 
 ### Language Agnostic
@@ -174,6 +182,7 @@
 * [Codecademy Python course](https://www.codecademy.com/learn/python)
 * [How to Think Like a Computer Scientist: Learning with Python, Interactive Edition](http://interactivepython.org/courselib/static/thinkcspy/index.html)
 * [Learn Python](http://www.learnpython.org)
+* [Learn Python Step by Step](http://www.techbeamers.com/python-tutorial-step-by-step)
 * [Python Koans](https://github.com/gregmalcolm/python_koans)
 
 
@@ -197,9 +206,13 @@
 * [Scala Exercises](https://www.scala-exercises.org) 
 
 
+### Selenium
+
+* [Selenium Tutorial - Web Automation](http://www.techbeamers.com/selenium-webdriver-tutorial)
+
+
 ### SQL
 
-* [SQL at Codecademy](https://www.codecademy.com/courses/learn-sql)
 * [SQLBolt](http://sqlbolt.com)
 
 
